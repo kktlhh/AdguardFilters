@@ -221,3 +221,4 @@ ws*://video.docfilms.info^
 ||ukrsvit.ukrmir.info^
 ||vozer.voffka.com^
 ||vw.onlinia.net^
+test
